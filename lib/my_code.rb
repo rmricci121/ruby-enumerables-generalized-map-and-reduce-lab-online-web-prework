@@ -9,9 +9,9 @@ end
 new_array
 end
 
-map do |n|
-  n * -1 
-end
+# map do |n|
+#   n * -1 
+# end
 
 
 
