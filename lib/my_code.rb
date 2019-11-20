@@ -2,7 +2,7 @@
 def map(array)
 new_array = []
 counter = 0 
-while
+while counter < array.length do 
 
 counter += 0 
 end
